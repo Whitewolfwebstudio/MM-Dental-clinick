@@ -1,0 +1,5 @@
+{
+  "name": "MM Dental Care Clinic",
+  "description": "Premium dental care in Karachi, Pakistan. Expert treatments by Dr. Annas including Braces, Implants, and Root Canal.",
+  "requestFramePermissions": ["geolocation"]
+}
